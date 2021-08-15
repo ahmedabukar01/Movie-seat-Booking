@@ -1,2 +1,2 @@
 # Movie-seat-Booking
-for Youtupe project
+for Youtupe projects
